@@ -1,5 +1,5 @@
 # disability-facts
-React App to share and increase awareness about disability facts **Live Demo Link** https://disabilityfacts.netlify.app
+React App to share and increase awareness about disability facts - **Live Demo Link** https://disabilityfacts.netlify.app
 
 ![](images/disafactspreview.gif)
 
